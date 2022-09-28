@@ -1,3 +1,6 @@
+/*
+This is the control program for the car.
+*/
 int r_pwm=3, l_pwm=9;
 int rig_m_f=4;
 int rig_m_b=5;
